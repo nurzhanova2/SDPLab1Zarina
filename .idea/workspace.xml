@@ -1,26 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d4dd0c9-ad9e-458b-92fe-63adc7f66e00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SDP first Lab 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/journaldev/design/abstractfactory/ComputerAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/journaldev/design/abstractfactory/ComputerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/journaldev/design/abstractfactory/PCFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/journaldev/design/abstractfactory/ServerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/journaldev/design/factory/ComputerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/journaldev/design/model/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/journaldev/design/model/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/journaldev/design/model/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/journaldev/design/test/TestDesignPatterns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/journaldev/design/test/TestFactory.java" afterDir="false" />
+    <list default="true" id="8d4dd0c9-ad9e-458b-92fe-63adc7f66e00" name="Changes" comment="lab1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDP first Lab 1.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +22,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -74,6 +70,14 @@
       <option name="presentableId" value="Default" />
       <updated>1696419043537</updated>
     </task>
+    <task id="LOCAL-00001" summary="lab1">
+      <created>1696621071638</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696621071638</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,10 +85,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab1" />
   </component>
 </project>
